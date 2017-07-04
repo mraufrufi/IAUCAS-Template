@@ -1,1 +1,1 @@
-# \IAUCAS Template
+# IAUCAS Template Latex
