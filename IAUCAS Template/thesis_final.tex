@@ -1,0 +1,93 @@
+%% Thesis Template of Chinese Academy of Sciences
+%% for using CASthesis package with LaTeX2e
+%% Created by Ling-Yun Wu <aloft@ctex.org>
+%% $Id: template.tex,v 1.10 2007/01/09 05:10:46 aloft Exp $
+
+\documentclass[notypeinfo]{CASthesis}
+%\documentclass[UTF8]{CASthesis}
+\usepackage{tabu}
+\usepackage{lipsum}
+%\usepackage{caption}
+%\usepackage{subcaption}
+\usepackage{adjustbox}
+\newif \ifnotblind
+\notblindtrue
+\graphicspath{{figures/}}
+%\hypersetup{colorlinks=false}
+\hypersetup{linkcolor=blue,citecolor=red}
+\def\CJKunderlinecolor{\color{black}}
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \confidential{}
+  \title{}
+  \ifnotblind
+  \author{Muhammad Rauf}
+  \advisor{Supervisor}
+  \advisorinstitute{Institute of Automation}
+  \else
+  \author{}
+  \advisor{}
+  \advisorinstitute{}
+  \fi
+  \degree{²©Ê¿}
+  \majordegree{Doctor of Philosophy}
+  \major{ Pattern Recognition and Intelligent Systems}
+  \submitdate{2017~Äê~~5~ÔÂ}
+  \institute{Institute of Automation}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \englishtitle{Title here}
+  \ifnotblind
+  \englishauthor{Author}
+  \englishadvisor{Supervisor}
+  \else
+  \englishauthor{}
+  \englishadvisor{}
+  \fi
+  \englishinstitute{Institute of Automation, Chinese Academy of Sciences}
+  \englishdegree{Doctor of Philosophy}
+  \englishmajordegree{Patter Recognition and Intelligent Systems}
+  \englishdate{May, 2017}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \maketitle
+  \makeenglishtitle
+  \makedeclaration
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frontmatter
+  \include{nonchapters/abstract}
+  \tableofcontents
+  \listoftables
+  \listoffigures
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mainmatter
+   \include{chapters/chap01/chap01}
+
+    %\include{chapters/chap02/chap02}
+
+   % \include{chapters/chap03/chap03}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \appendix
+  \renewcommand{\thetable}{\Alph{chapter}-\arabic{table}}
+  %\include{nonchapters/appendix01}
+  %\include{nonchapters/appendix02}
+  %\include{nonchapters/appendix03}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\backmatter
+  \begin{spacing}{1}
+  \small
+  \bibliographystyle{ref/myieeetr}
+  \bibliography{ref/refs}
+  \end{spacing}
+
+\ifnotblind
+%%%%%%%%%%%%%%
+  \include{nonchapters/ack}
+  \include{nonchapters/resume}
+\else
+ % \include{nonchapters/thanks-anonymous}
+ % \include{nonchapters/resume-anonymous}
+\fi
+
+\end{document}

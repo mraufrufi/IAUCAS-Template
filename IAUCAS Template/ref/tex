@@ -1,0 +1,747 @@
+@article{kamruzzaman2006support,
+  title={Support vector machines and other pattern recognition approaches to the diagnosis of cerebral palsy gait},
+  author={Kamruzzaman, Joarder and Begg, Rezaul K},
+  journal={IEEE Transactions on Biomedical Engineering},
+  volume={53},
+  number={12},
+  pages={2479--2490},
+  year={2006},
+  publisher={IEEE}
+}
+
+@article{barclay1978temporal,
+  title={Temporal and spatial factors in gait perception that influence gender recognition},
+  author={Barclay, Catharine D and Cutting, James E and Kozlowski, Lynn T},
+  journal={Attention, Perception, \& Psychophysics},
+  volume={23},
+  number={2},
+  pages={145--152},
+  year={1978},
+  publisher={Springer}
+}
+
+@article{jain2004introduction,
+  title={An introduction to biometric recognition},
+  author={Jain, Anil K and Ross, Arun and Prabhakar, Salil},
+  journal={IEEE Transactions on circuits and systems for video technology},
+  volume={14},
+  number={1},
+  pages={4--20},
+  year={2004},
+  publisher={IEEE}
+}
+
+@article{boulgouris2005gait,
+  title={Gait recognition: a challenging signal processing technology for biometric identification},
+  author={Boulgouris, Nikolaos V and Hatzinakos, Dimitrios and Plataniotis, Konstantinos N},
+  journal={IEEE Signal Processing Magazine},
+  volume={22},
+  number={6},
+  pages={78--90},
+  year={2005},
+  publisher={IEEE}
+}
+
+\bibitem{SOTON}
+University of Southampton (SOTON) - Database for Human Id at Distance,
+2005,
+\newblock {\em http://www.gait.ecs.soton.ac.uk/database},
+%\newblock Accessed: 08-11-2016.
+
+\bibitem{UMD}
+University of Maryland Database (UMD), 2002,
+\newblock {\em http://www.umiacs.umd.edu/
+labs/pirl/hid/data.html},
+%\newblock Accessed: 08-11-2016.
+
+\bibitem{CMU}
+Carnegie Mellon University (CMU) Graphics Lab Motion Database, 2003,
+\newblock {\em http://mocap.cs.cmu.edu/},
+%\newblock Accessed: 08-11-2016.
+
+\bibitem{GTD}
+Georgia Tech. Database (GTD), 2001,
+\newblock {\em http://www.cc.gatech.edu/cpl/projects/
+hid/images.html},
+%\newblock Accessed: 08-11-2016.
+
+\bibitem{MIT}
+Massachusetts Institute of Technology (MIT) Database,2002,
+\newblock {\em http://www.ai.
+mit.edu/people/llee/HID/data.htm},
+%\newblock Accessed: 08-11-2016.
+
+\bibitem{CASIA}
+Chinese Academy of Sciences (CASIA) gait database, 2009,
+\newblock {\em http://www.cbsr.ia.ac.cn/english/Gait\%20Databases.asp},
+%\newblock Accessed: 08-11-2016.
+
+@article{iwama2012isir,
+  title={The ou-isir gait database comprising the large population dataset and performance evaluation of gait recognition},
+  author={Iwama, Haruyuki and Okumura, Mayu and Makihara, Yasushi and Yagi, Yasushi},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={7},
+  number={5},
+  pages={1511--1521},
+  year={2012},
+  publisher={IEEE}
+}
+
+@article{welch1995introduction,
+  title={An introduction to the Kalman filter},
+  author={Welch, Greg and Bishop, Gary},
+  year={1995}
+}
+
+@inproceedings{pavlovic1999dynamic,
+  title={A dynamic bayesian network approach to figure tracking using learned dynamic models},
+  author={Pavlovic, Vladimir and Rehg, James M and Cham, Tat-Jen and Murphy, Kevin P},
+  booktitle={Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on},
+  volume={1},
+  pages={94--101},
+  year={1999},
+  organization={IEEE}
+}
+
+@article{cunado2003automatic,
+  title={Automatic extraction and description of human gait models for recognition purposes},
+  author={Cunado, David and Nixon, Mark S and Carter, John N},
+  journal={Computer Vision and Image Understanding},
+  volume={90},
+  number={1},
+  pages={1--41},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@inproceedings{tanawongsuwan2001gait,
+  title={Gait recognition from time-normalized joint-angle trajectories in the walking plane},
+  author={Tanawongsuwan, Rawesak and Bobick, Aaron},
+  booktitle={Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer Society Conference on},
+  volume={2},
+  pages={II--II},
+  year={2001},
+  organization={IEEE}
+}
+
+@inproceedings{lee2002gait,
+  title={Gait appearance for recognition},
+  author={Lee, Lily and Grimson, W Eric L},
+  booktitle={International Workshop on Biometric Authentication},
+  pages={143--154},
+  year={2002},
+  organization={Springer}
+}
+
+@inproceedings{dockstader2002feature,
+  title={Feature extraction for the analysis of gait and human motion},
+  author={Dockstader, Shiloh L and Bergkessel, Kelly A and Tekalp, A Murat},
+  booktitle={Pattern Recognition, 2002. Proceedings. 16th International Conference on},
+  volume={1},
+  pages={5--8},
+  year={2002},
+  organization={IEEE}
+}
+
+@article{dockstader2003stochastic,
+  title={Stochastic kinematic modeling and feature extraction for gait analysis},
+  author={Dockstader, Shiloh L and Berg, Michel J and Tekalp, A Murat},
+  journal={IEEE Transactions on Image Processing},
+  volume={12},
+  number={8},
+  pages={962--976},
+  year={2003},
+  publisher={IEEE}
+}
+
+@article{man2006individual,
+  title={Individual recognition using gait energy image},
+  author={Man, Ju and Bhanu, Bir},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={28},
+  number={2},
+  pages={316--322},
+  year={2006},
+  publisher={IEEE}
+}
+
+@article{chen2010layered,
+  title={Layered time series model for gait recognition},
+  author={Chen, Changhong and Liang, Jimin and Zhao, Heng and Hu, H and Jiao, L},
+  journal={Electronics letters},
+  volume={46},
+  number={6},
+  pages={412--414},
+  year={2010},
+  publisher={IET}
+}
+
+@article{xu2006human,
+  title={Human gait recognition with matrix representation},
+  author={Xu, Dong and Yan, Shuicheng and Tao, Dacheng and Zhang, Lei and Li, Xuelong and Zhang, Hong-Jiang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={16},
+  number={7},
+  pages={896--903},
+  year={2006},
+  publisher={IEEE}
+}
+
+@inproceedings{cuntoor2002gait,
+  title={Gait-based recognition of humans using continuous hmms},
+  author={Cuntoor, Kale Rajagopalan and Kale, A and Rajagopalan, AN and Cuntoor, N and Kr{\"u}ger, V},
+  booktitle={in Fifth IEEE International Conference on Automatic Face and Gesture Recognition},
+  year={2002},
+  organization={Citeseer}
+}
+
+@article{marteksurvey,
+  title={A Survey of Silhouette-Based Gait Recognition Methods},
+  author={Martek, Craig}
+}
+
+@inproceedings{niyogi1994analyzing,
+  title={Analyzing and recognizing walking figures in XYT},
+  author={Niyogi, Sourabh A and Adelson, Edward H and others},
+  booktitle={CVPR},
+  volume={94},
+  pages={469--474},
+  year={1994}
+}
+
+@article{huang1999human,
+  title={Human gait recognition in canonical space using temporal templates},
+  author={Huang, PS and Harris, CJ and Nixon, Mark S},
+  journal={IEE Proceedings-Vision, Image and Signal Processing},
+  volume={146},
+  number={2},
+  pages={93--100},
+  year={1999},
+  publisher={IET}
+}
+
+@inproceedings{phillips2002baseline,
+  title={Baseline results for the challenge problem of humanid using gait analysis},
+  author={Phillips, P Jonathon and Sarkar, Sudeep and Robledo, Isidro and Grother, Patrick and Bowyer, Kevin},
+  booktitle={Automatic Face and Gesture Recognition, 2002. Proceedings. Fifth IEEE International Conference on},
+  pages={137--142},
+  year={2002},
+  organization={IEEE}
+}
+
+@article{yang2008gabor,
+  title={Gabor phase based gait recognition},
+  author={Yang, X and Zhou, Y and Zhang, T and Zheng, E and Yang, J},
+  journal={Electronics Letters},
+  volume={44},
+  number={10},
+  pages={620--621},
+  year={2008},
+  publisher={IET}
+}
+
+@article{bosch2007best,
+  title={Which is the best way to organize/classify images by content?},
+  author={Bosch, Anna and Mu{\~n}oz, Xavier and Mart{\'\i}, Robert},
+  journal={Image and vision computing},
+  volume={25},
+  number={6},
+  pages={778--791},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{tao2007general,
+  title={General tensor discriminant analysis and gabor features for gait recognition},
+  author={Tao, Dacheng and Li, Xuelong and Wu, Xindong and Maybank, Stephen J},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={29},
+  number={10},
+  year={2007},
+  publisher={IEEE}
+}
+
+@inproceedings{yoo2008automated,
+  title={Automated human recognition by gait using neural network},
+  author={Yoo, Jang-Hee and Hwang, Doosung and Moon, Ki-Young and Nixon, Mark S},
+  booktitle={Image Processing Theory, Tools and Applications, 2008. IPTA 2008. First Workshops on},
+  pages={1--6},
+  year={2008},
+  organization={IEEE}
+}
+
+@inproceedings{yamauchi2009recognition,
+  title={Recognition of walking humans in 3D: Initial results},
+  author={Yamauchi, Koichiro and Bhanu, Bir and Saito, Hideo},
+  booktitle={Computer Vision and Pattern Recognition Workshops, 2009. CVPR Workshops 2009. IEEE Computer Society Conference on},
+  pages={45--52},
+  year={2009},
+  organization={IEEE}
+}
+
+@inproceedings{shutler2000statistical,
+  title={Statistical gait description via temporal moments},
+  author={Shutler, Jamie D and Nixon, Mark S and Harris, Chris J},
+  booktitle={Image Analysis and Interpretation, 2000. Proceedings. 4th IEEE Southwest Symposium},
+  pages={291--295},
+  year={2000},
+  organization={IEEE}
+}
+
+@inproceedings{shutler2001zernike,
+  title={Zernike Velocity Moments for Description and Recognition of Moving Shapes.},
+  author={Shutler, Jamie D and Nixon, Mark S},
+  booktitle={BMVC},
+  pages={1--10},
+  year={2001}
+}
+
+@inproceedings{qin2012bag,
+  title={A Bag-of-Gait Model for Gait Recognition},
+  author={Qin, Jianzhao and Luo, T and Shao, W and Chung, RHY and Chow, KP},
+  booktitle={Proceedings of the International Conference on Image Processing, Computer Vision, and Pattern Recognition (IPCV)},
+  pages={1},
+  year={2012},
+  organization={The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp)}
+}
+
+@article{lowe2004distinctive,
+  title={Distinctive image features from scale-invariant keypoints},
+  author={Lowe, David G},
+  journal={International journal of computer vision},
+  volume={60},
+  number={2},
+  pages={91--110},
+  year={2004},
+  publisher={Springer}
+}
+
+@article{jiang2010representations,
+  title={Representations of keypoint-based semantic concept detection: A comprehensive study},
+  author={Jiang, Yu-Gang and Yang, Jun and Ngo, Chong-Wah and Hauptmann, Alexander G},
+  journal={IEEE Transactions on Multimedia},
+  volume={12},
+  number={1},
+  pages={42--53},
+  year={2010},
+  publisher={IEEE}
+}
+
+@article{deerwester1990indexing,
+  title={Indexing by latent semantic analysis},
+  author={Deerwester, Scott and Dumais, Susan T and Furnas, George W and Landauer, Thomas K and Harshman, Richard},
+  journal={Journal of the American society for information science},
+  volume={41},
+  number={6},
+  pages={391},
+  year={1990},
+  publisher={American Documentation Institute}
+}
+
+@article{hofmann2001unsupervised,
+  title={Unsupervised learning by probabilistic latent semantic analysis},
+  author={Hofmann, Thomas},
+  journal={Machine learning},
+  volume={42},
+  number={1-2},
+  pages={177--196},
+  year={2001},
+  publisher={Springer}
+}
+
+@article{blei2003latent,
+  title={Latent dirichlet allocation},
+  author={Blei, David M and Ng, Andrew Y and Jordan, Michael I},
+  journal={Journal of machine Learning research},
+  volume={3},
+  number={Jan},
+  pages={993--1022},
+  year={2003}
+}
+
+@article{van2010visual,
+  title={Visual word ambiguity},
+  author={Van Gemert, Jan C and Veenman, Cor J and Smeulders, Arnold WM and Geusebroek, Jan-Mark},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={32},
+  number={7},
+  pages={1271--1283},
+  year={2010},
+  publisher={IEEE}
+}
+
+@inproceedings{yu2009nonlinear,
+  title={Nonlinear learning using local coordinate coding},
+  author={Yu, Kai and Zhang, Tong and Gong, Yihong},
+  booktitle={Advances in neural information processing systems},
+  pages={2223--2231},
+  year={2009}
+}
+
+
+@article{huang2014feature,
+  title={Feature coding in image classification: A comprehensive study},
+  author={Huang, Yongzhen and Wu, Zifeng and Wang, Liang and Tan, Tieniu},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={36},
+  number={3},
+  pages={493--506},
+  year={2014},
+  publisher={IEEE}
+}
+
+@inproceedings{perronnin2007fisher,
+  title={Fisher kernels on visual vocabularies for image categorization},
+  author={Perronnin, Florent and Dance, Christopher},
+  booktitle={Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on},
+  pages={1--8},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{wang2010locality,
+  title={Locality-constrained linear coding for image classification},
+  author={Wang, Jinjun and Yang, Jianchao and Yu, Kai and Lv, Fengjun and Huang, Thomas and Gong, Yihong},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on},
+  pages={3360--3367},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{huang2011salient,
+  title={Salient coding for image classification},
+  author={Huang, Yongzhen and Huang, Kaiqi and Yu, Yinan and Tan, Tieniu},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on},
+  pages={1753--1760},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{wu2012group,
+  title={Group encoding of local features in image classification},
+  author={Wu, Zifeng and Huang, Yongzhen and Wang, Liang and Tan, Tieniu},
+  booktitle={Pattern Recognition (ICPR), 2012 21st International Conference on},
+  pages={1505--1508},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{gao2010local,
+  title={Local features are not lonely--Laplacian sparse coding for image classification},
+  author={Gao, Shenghua and Tsang, Ivor Wai-Hung and Chia, Liang-Tien and Zhao, Peilin},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on},
+  pages={3555--3561},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{gao2011multi,
+  title={Multi-layer group sparse coding—For concurrent image classification and annotation},
+  author={Gao, Shenghua and Chia, Liang-Tien and Tsang, Ivor Wai-Hung},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on},
+  pages={2809--2816},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{perronnin2010improving,
+  title={Improving the fisher kernel for large-scale image classification},
+  author={Perronnin, Florent and S{\'a}nchez, Jorge and Mensink, Thomas},
+  booktitle={European conference on computer vision},
+  pages={143--156},
+  year={2010},
+  organization={Springer}
+}
+
+@inproceedings{yu2010improved,
+  title={Improved local coordinate coding using local tangents},
+  author={Yu, Kai and Zhang, Tong},
+  booktitle={Proceedings of the 27th International Conference on Machine Learning (ICML-10)},
+  pages={1215--1222},
+  year={2010}
+}
+
+\bibitem{cctv}
+One nation under CCTV: the future of automated surveillance,
+\newblock {\em http://www.wired.co.uk/article/one-nation-under-cctv}.
+
+@article{smeulders2000content,
+  title={Content-based image retrieval at the end of the early years},
+  author={Smeulders, Arnold WM and Worring, Marcel and Santini, Simone and Gupta, Amarnath and Jain, Ramesh},
+  journal={IEEE Transactions on pattern analysis and machine intelligence},
+  volume={22},
+  number={12},
+  pages={1349--1380},
+  year={2000},
+  publisher={IEEE}
+}
+
+\bibitem{Scene}
+\newblock {\em $http://www-cvr.ai.uiuc.edu/ponce_grp/data/scene_categories/scene_categories.zip$},
+\newblock Accessed: 08-11-2016
+
+\bibitem{Caltech}
+\newblock {\em $http://www.vision.caltech.edu/Image_Datasets/Caltech101/$},
+\newblock Accessed: 08-11-2016
+
+\bibitem{VOC2007}
+\newblock {\em $http://pascallin.ecs.soton.ac.uk/challenges/VOC/voc2007/index.html$},
+\newblock Accessed: 08-11-2016
+
+\bibitem{UIUC}
+\newblock {\em $http://vision.stanford.edu/lijiali/event_dataset/event_dataset.rar$},
+\newblock Accessed: 08-11-2016
+
+@article{jegou2011product,
+  title={Product quantization for nearest neighbor search},
+  author={Jegou, Herve and Douze, Matthijs and Schmid, Cordelia},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={33},
+  number={1},
+  pages={117--128},
+  year={2011},
+  publisher={IEEE}
+}
+
+@inproceedings{liu2012supervised,
+  title={Supervised hashing with kernels},
+  author={Liu, Wei and Wang, Jun and Ji, Rongrong and Jiang, Yu-Gang and Chang, Shih-Fu},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on},
+  pages={2074--2081},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{wang2012semi,
+  title={Semi-supervised hashing for large-scale search},
+  author={Wang, Jun and Kumar, Sanjiv and Chang, Shih-Fu},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={34},
+  number={12},
+  pages={2393--2406},
+  year={2012},
+  publisher={IEEE}
+}
+
+@article{gong2013iterative,
+  title={Iterative quantization: A procrustean approach to learning binary codes for large-scale image retrieval},
+  author={Gong, Yunchao and Lazebnik, Svetlana and Gordo, Albert and Perronnin, Florent},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={35},
+  number={12},
+  pages={2916--2929},
+  year={2013},
+  publisher={IEEE}
+}
+
+
+@inproceedings{he2010scalable,
+  title={Scalable similarity search with optimized kernel hashing},
+  author={He, Junfeng and Liu, Wei and Chang, Shih-Fu},
+  booktitle={Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining},
+  pages={1129--1138},
+  year={2010},
+  organization={ACM}
+}
+
+
+@inproceedings{weiss2009spectral,
+  title={Spectral hashing},
+  author={Weiss, Yair and Torralba, Antonio and Fergus, Rob},
+  booktitle={Advances in neural information processing systems},
+  pages={1753--1760},
+  year={2009}
+}
+
+@inproceedings{liu2011defense,
+  title={In defense of soft-assignment coding},
+  author={Liu, Lingqiao and Wang, Lei and Liu, Xinwang},
+  booktitle={Computer Vision (ICCV), 2011 IEEE International Conference on},
+  pages={2486--2493},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{philbin2008lost,
+  title={Lost in quantization: Improving particular object retrieval in large scale image databases},
+  author={Philbin, James and Chum, Ondrej and Isard, Michael and Sivic, Josef and Zisserman, Andrew},
+  booktitle={Computer Vision and Pattern Recognition, 2008. CVPR 2008. IEEE Conference on},
+  pages={1--8},
+  year={2008},
+  organization={IEEE}
+}
+
+\bibitem{patha}
+\newblock {\em $http://en.wikipedia.org/wiki/Pythagorean_theorem$},
+\newblock Accessed: 08-11-2016
+
+
+@inproceedings{mikolajczyk2005local,
+  title={Local features for object class recognition},
+  author={Mikolajczyk, Krystian and Leibe, Bastian and Schiele, Bernt},
+  booktitle={Computer Vision, 2005. ICCV 2005. Tenth IEEE International Conference on},
+  volume={2},
+  pages={1792--1799},
+  year={2005},
+  organization={IEEE}
+}
+
+@article{tuytelaars2008local,
+  title={Local invariant feature detectors: a survey},
+  author={Tuytelaars, Tinne and Mikolajczyk, Krystian and others},
+  journal={Foundations and trends{\textregistered} in computer graphics and vision},
+  volume={3},
+  number={3},
+  pages={177--280},
+  year={2008},
+  publisher={Now Publishers, Inc.}
+}
+
+
+@article{liu2015enhancing,
+  title={Enhancing person re-identification by integrating gait biometric},
+  author={Liu, Zheng and Zhang, Zhaoxiang and Wu, Qiang and Wang, Yunhong},
+  journal={Neurocomputing},
+  volume={168},
+  pages={1144--1156},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{liu2002gabor,
+  title={Gabor feature based classification using the enhanced fisher linear discriminant model for face recognition},
+  author={Liu, Chengjun and Wechsler, Harry},
+  journal={IEEE Transactions on Image processing},
+  volume={11},
+  number={4},
+  pages={467--476},
+  year={2002},
+  publisher={IEEE}
+}
+
+@article{huang2015cross,
+  title={Cross-Speed Gait Recognition Using Speed-Invariant Gait Templates and Globality--Locality Preserving Projections},
+  author={Huang, Sheng and Elgammal, Ahmed and Lu, Jiwen and Yang, Dan},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={10},
+  number={10},
+  pages={2071--2083},
+  year={2015},
+  publisher={IEEE}
+}
+
+@article{hu2013incremental,
+  title={Incremental learning for video-based gait recognition with LBP flow},
+  author={Hu, Maodi and Wang, Yunhong and Zhang, Zhaoxiang and Zhang, De and Little, James J},
+  journal={IEEE transactions on cybernetics},
+  volume={43},
+  number={1},
+  pages={77--89},
+  year={2013},
+  publisher={IEEE}
+}
+
+@inproceedings{deutscher2000articulated,
+  title={Articulated body motion capture by annealed particle filtering},
+  author={Deutscher, Jonathan and Blake, Andrew and Reid, Ian},
+  booktitle={Computer Vision and Pattern Recognition, 2000. Proceedings. IEEE Conference on},
+  volume={2},
+  pages={126--133},
+  year={2000},
+  organization={IEEE}
+}
+
+@article{isard1998condensation,
+  title={Condensation—conditional density propagation for visual tracking},
+  author={Isard, Michael and Blake, Andrew},
+  journal={International journal of computer vision},
+  volume={29},
+  number={1},
+  pages={5--28},
+  year={1998},
+  publisher={Springer}
+}
+
+@inproceedings{krizhevsky2012imagenet,
+  title={Imagenet classification with deep convolutional neural networks},
+  author={Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E},
+  booktitle={Advances in neural information processing systems},
+  pages={1097--1105},
+  year={2012}
+}
+
+@inproceedings{girshick2014rich,
+  title={Rich feature hierarchies for accurate object detection and semantic segmentation},
+  author={Girshick, Ross and Donahue, Jeff and Darrell, Trevor and Malik, Jitendra},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={580--587},
+  year={2014}
+}
+
+@inproceedings{szegedy2015going,
+  title={Going deeper with convolutions},
+  author={Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott and Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, Andrew},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1--9},
+  year={2015}
+}
+
+@article{chen2015standard,
+  title={Standard plane localization in fetal ultrasound via domain transferred deep neural networks},
+  author={Chen, Hao and Ni, Dong and Qin, Jing and Li, Shengli and Yang, Xin and Wang, Tianfu and Heng, Pheng Ann},
+  journal={IEEE journal of biomedical and health informatics},
+  volume={19},
+  number={5},
+  pages={1627--1636},
+  year={2015},
+  publisher={IEEE}
+}
+
+@inproceedings{zeng2015deep,
+  title={Deep convolutional neural networks for multi-instance multi-task learning},
+  author={Zeng, Tao and Ji, Shuiwang},
+  booktitle={Data Mining (ICDM), 2015 IEEE International Conference on},
+  pages={579--588},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{dawson2002gait,
+  title={Gait recognition},
+  author={Dawson, Mark Ruane},
+  journal={Final Thesis Report, Department of Computing, Imperial College of Science, Technology \& Medicine, London},
+  year={2002},
+  publisher={Citeseer}
+}
+
+@inproceedings{benabdelkader2001eigengait,
+  title={Eigengait: Motion-based recognition of people using image self-similarity},
+  author={BenAbdelkader, Chiraz and Cutler, Ross and Nanda, Harsh and Davis, Larry},
+  booktitle={International Conference on Audio-and Video-Based Biometric Person Authentication},
+  pages={284--294},
+  year={2001},
+  organization={Springer}
+}
+
+@article{man2006individual,
+  title={Individual recognition using gait energy image},
+  author={Man, Ju and Bhanu, Bir},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={28},
+  number={2},
+  pages={316--322},
+  year={2006},
+  publisher={IEEE}
+}
+
+@article{cunado2003automatic,
+  title={Automatic extraction and description of human gait models for recognition purposes},
+  author={Cunado, David and Nixon, Mark S and Carter, John N},
+  journal={Computer Vision and Image Understanding},
+  volume={90},
+  number={1},
+  pages={1--41},
+  year={2003},
+  publisher={Elsevier}
+}
+
